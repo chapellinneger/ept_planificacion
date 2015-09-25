@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<openerp>
+	<data>
+		<menuitem 
+			name="Planificacion EPT" 
+			id="menu_registro_planificacion" 
+			sequence="10"/>
+		<menuitem 
+			name="Tipo de Planificacion" 	
+			id="menu_vertical_tipo_planificacion" 
+			parent="menu_registro_planificacion" 
+			sequence="10"/>
+	</data>
+</openerp>

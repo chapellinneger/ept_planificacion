@@ -1,7 +1,7 @@
 #-*-coding: utf-8-*-
 
 {
-	'name':'censoEPT',
+	'name':'PLanificacion EPT',
 	'version':'1.0',
 	'depends':['base'],
 	'author':'Equipo CFG-JPV',
@@ -10,6 +10,9 @@
 	'update_xml':[],
 	'data':[
 		#~ 'views/cfg_entidad_view.xml',
+		'vista/ept_plf_tipo_planificacion_v.xml',
+		'vista/ept_plf_menu_v.xml',
+		
 	],
 	'installable':True,
 	'auto_install':False,
