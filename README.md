@@ -1,2 +1,2 @@
-# ept_pLanificacion
-este es un ejemplo que se realiza con ept_planificacion
+# CFG_ODOO
+EJEMPLO DE ACTUALIZACION
