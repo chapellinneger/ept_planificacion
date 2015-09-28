@@ -1,2 +1,3 @@
-# CFG_ODOO
-EJEMPLO DE ACTUALIZACION
+# ept_planificacion
+Esta es una prueba
+

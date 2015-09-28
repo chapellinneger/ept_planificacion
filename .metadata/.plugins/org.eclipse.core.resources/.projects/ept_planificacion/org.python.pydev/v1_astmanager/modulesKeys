@@ -1,0 +1,5 @@
+MODULES_MANAGER_V2
+__init__|/home/jorgerengifo/git/ept_planificacion/__init__.py
+__openerp__|/home/jorgerengifo/git/ept_planificacion/__openerp__.py
+modelo.__init__|/home/jorgerengifo/git/ept_planificacion/modelo/__init__.py
+modelo.ept_plf_tipo_planificacion_m|/home/jorgerengifo/git/ept_planificacion/modelo/ept_plf_tipo_planificacion_m.py
