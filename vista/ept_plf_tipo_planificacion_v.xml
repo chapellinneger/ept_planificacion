@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<openerp>
+	<data>
+		<record	model="ir.ui.view" id="view_tipo_planificacion_form">
+			<field name="name">Ept Tipo PLanificación</field>
+			<field name="model">ept_plf.tipo_planificacion</field>
+			<field name="type">form</field>
+			<field name="arch" type="xml">
+				<form string="Tipo PLanificación">
+					<group>
+						<field name="nombre_tipo_planificacion"></field>
+						<field name="active"></field>
+					</group>
+				</form>
+			</field>
+		</record>
+		<record	model="ir.ui.view" id="view_tipo_planificacion_tree">
+			<field name="name">Ept Tipo PLanificación</field>
+			<field name="model">ept_plf.tipo_planificacion</field>
+			<field name="type">tree</field>
+			<field name="arch" type="xml" >
+				<tree string="Tipo PLanificación">
+						<field name="nombre_tipo_planificacion"></field>
+						<field name="active"></field>
+				</tree>
+			</field>
+		</record>
+		<record model="ir.actions.act_window" id="action_tipo_planificacion">
+			<field name="name">Ept Tipo PLanificación</field>
+			<field name="res_model">ept_plf.tipo_planificacion</field>
+			<field name="view_type">form</field>
+			<field name="view_mode">tree,form</field>
+		</record>
+		<menuitem 
+			name="Tipo de Planificacion"
+			id="menu_tipo_planificacion" 
+			sequence="10"
+			parent="menu_vertical_tipo_planificacion"
+			action="action_tipo_planificacion" />
+	</data>
+</openerp> 

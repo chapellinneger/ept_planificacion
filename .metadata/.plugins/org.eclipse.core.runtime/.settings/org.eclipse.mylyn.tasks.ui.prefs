@@ -1,4 +1,7 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 migrated.task.repositories.secure.store=true
+=======
+>>>>>>> 6326cbe788f6e828bec880cd4e3282b4aaf01650
 org.eclipse.mylyn.tasks.ui.filters.nonmatching=true
 org.eclipse.mylyn.tasks.ui.filters.nonmatching.encouraged=true

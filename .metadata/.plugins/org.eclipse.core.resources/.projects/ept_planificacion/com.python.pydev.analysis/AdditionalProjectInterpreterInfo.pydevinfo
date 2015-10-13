@@ -1,0 +1,24 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/home/jorgerengifo/local_addons/ept_planificacion/.metadata/.plugins/org.eclipse.core.resources/.projects/ept_planificacion/com.python.pydev.analysis/v2_indexcache
+__openerp__|1443454432000000000|/home/jorgerengifo/git/ept_planificacion/__openerp__.py
+__init__|1443454432000000000|/home/jorgerengifo/git/ept_planificacion/__init__.py
+modelo.__init__|1443454432000000000|/home/jorgerengifo/git/ept_planificacion/modelo/__init__.py
+modelo.ept_plf_tipo_planificacion_m|1443454432000000000|/home/jorgerengifo/git/ept_planificacion/modelo/ept_plf_tipo_planificacion_m.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=ept_plf_tipo_planificacion
+1=modelo.ept_plf_tipo_planificacion_m
+-- END DICTIONARY
+-- START TREE 1
+1
+ept|1|ept_plf_tipo_planificacion!9@
+-- END TREE
+-- START TREE 2
+4
+_co|1|_columns!2&11@
+_de|1|_defaults!2&11@
+_na|1|_name!2&11@
+_re|1|_rec_name!2&11@
+-- END TREE
